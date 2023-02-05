@@ -1,0 +1,68 @@
+29-01-2023 23:14:40 - main - INFO - <module> - Start program
+29-01-2023 23:17:57 - main - INFO - <module> - Start program
+29-01-2023 23:18:07 - main - INFO - <module> - Start program
+29-01-2023 23:18:18 - user_interface - ERROR - menu - Error
+29-01-2023 23:18:42 - main - INFO - <module> - Start program
+29-01-2023 23:20:19 - user_interface - ERROR - menu - Error
+29-01-2023 23:20:34 - main - INFO - <module> - Start program
+29-01-2023 23:21:18 - main - INFO - <module> - Start program
+29-01-2023 23:30:09 - main - INFO - <module> - Start program
+29-01-2023 23:32:44 - main - INFO - <module> - Start program
+29-01-2023 23:33:52 - main - INFO - <module> - Start program
+29-01-2023 23:36:43 - main - INFO - <module> - Start program
+29-01-2023 23:38:47 - main - INFO - <module> - Start program
+29-01-2023 23:38:51 - user_interface - ERROR - menu - Error
+29-01-2023 23:38:51 - user_interface - INFO - menu - Stop program.
+29-01-2023 23:39:35 - main - INFO - <module> - Start program
+29-01-2023 23:43:07 - main - INFO - <module> - Start program
+29-01-2023 23:43:14 - user_interface - INFO - menu - Stop program.
+29-01-2023 23:43:19 - main - INFO - <module> - Start program
+29-01-2023 23:44:53 - main - INFO - <module> - Start program
+29-01-2023 23:46:21 - main - INFO - <module> - Start program
+29-01-2023 23:51:11 - main - INFO - <module> - Start program
+29-01-2023 23:55:32 - main - INFO - <module> - Start program
+29-01-2023 23:57:37 - main - INFO - <module> - Start program
+30-01-2023 00:02:51 - main - INFO - <module> - Start program
+30-01-2023 00:19:07 - main - INFO - <module> - Start program
+30-01-2023 00:29:17 - user_interface - ERROR - calc_menu - Error
+30-01-2023 15:45:16 - user_interface - ERROR - calc_menu - Error
+30-01-2023 15:47:13 - user_interface - ERROR - calc_menu - Error
+30-01-2023 15:48:20 - user_interface - ERROR - calc_menu - Error
+30-01-2023 15:54:01 - user_interface - ERROR - calc_menu - Error
+30-01-2023 16:04:02 - user_interface - ERROR - calc_menu - Error
+30-01-2023 16:08:21 - user_interface - ERROR - calc_menu - Error
+30-01-2023 16:44:49 - user_interface - ERROR - calc_menu - Error
+30-01-2023 16:47:57 - user_interface - ERROR - calc_menu - Error
+31-01-2023 11:25:06 - user_interface - ERROR - calc_menu - Error
+31-01-2023 19:50:40 - user_interface - ERROR - calc_menu - Error
+02-02-2023 22:49:47 - user_interface - ERROR - calc_menu - Error
+02-02-2023 22:52:38 - user_interface - ERROR - calc_menu - Error
+02-02-2023 22:52:51 - user_interface - ERROR - calc_menu - Error
+02-02-2023 22:53:23 - user_interface - ERROR - calc_menu - Error
+02-02-2023 22:53:33 - user_interface - ERROR - calc_menu - Error
+02-02-2023 23:00:56 - user_interface - ERROR - calc_menu - Error
+02-02-2023 23:01:14 - user_interface - ERROR - calc_menu - Error
+02-02-2023 23:04:36 - user_interface - ERROR - calc_menu - Error
+02-02-2023 23:05:39 - user_interface - ERROR - calc_menu - Error
+02-02-2023 23:07:01 - user_interface - ERROR - calc_menu - Error
+02-02-2023 23:09:40 - user_interface - ERROR - calc_menu - Error
+02-02-2023 23:13:16 - user_interface - ERROR - calc_menu - Error
+05-02-2023 20:05:01 - user_interface - ERROR - calc_menu - Error
+05-02-2023 20:06:28 - user_interface - ERROR - calc_menu - Error
+05-02-2023 20:07:35 - user_interface - ERROR - calc_menu - Error
+05-02-2023 20:11:01 - user_interface - ERROR - calc_menu - Error
+05-02-2023 20:11:15 - excep - WARNING - verification_nums - Incorrect data entered: '', '1'!
+05-02-2023 20:12:22 - user_interface - ERROR - calc_menu - Error
+05-02-2023 20:12:59 - user_interface - ERROR - calc_menu - Error
+05-02-2023 20:18:19 - main - INFO - <module> - Start program
+05-02-2023 20:19:29 - user_interface - WARNING - menu - Main menu, wrong item selected.
+05-02-2023 20:19:40 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+05-02-2023 20:19:46 - user_interface - INFO - menu_calc - Sum: 1 + 1 = 2
+05-02-2023 20:19:54 - user_interface - INFO - menu_calc - Stop calc menu
+05-02-2023 20:20:16 - user_interface - INFO - menu - Stop program.
+05-02-2023 20:20:37 - main - INFO - <module> - Start program
+05-02-2023 20:20:49 - user_interface - INFO - calc_menu - Start calc menu. With rational.
+05-02-2023 20:21:18 - user_interface - INFO - calc_menu - Stop calc menu
+05-02-2023 20:21:23 - user_interface - INFO - menu - Stop program.
+05-02-2023 20:33:02 - main - INFO - <module> - Start program
+05-02-2023 20:33:41 - user_interface - INFO - menu - Stop program.
